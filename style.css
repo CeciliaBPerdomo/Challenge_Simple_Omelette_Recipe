@@ -1,0 +1,32 @@
+.imagen_omellette_contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagen_omellette {
+    width: 70%;
+    border-radius: 25px;
+}
+
+h1 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+p{
+    font-family: "Outfit", serif;
+    font-style: normal;
+}
+
+.preparation_time{
+    background-color: hsl(330, 100%, 98%)
+}
+
+h4{
+    color: hsl(332, 51%, 32%);
+    font-family: "Outfit", serif;
+    font-style: normal;
+}
