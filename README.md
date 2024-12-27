@@ -1,3 +1,9 @@
+<p align="center">
+<img src="./assets/images/myAvatar.png" width="20%">
+</p> 
+
+<p align="center">Cecilia Perdomo</p>
+
 # Frontend Mentor - Recipe page
 
 ![Design preview for the Recipe page coding challenge](./preview.jpg)

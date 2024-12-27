@@ -1,3 +1,17 @@
+body {
+    background-color:hsl(30, 54%, 90%)
+}
+
+.main_principal {
+    background-color: white;
+    width: 70%;
+    margin: 0 auto; /* Centra el elemento horizontalmente */
+    display: flex;
+    flex-direction: column; /* Asegura que los elementos hijos se apilen verticalmente */
+    align-items: center; 
+    padding: 25px;
+}
+
 .imagen_omellette_contenedor {
     display: flex;
     align-items: center;
@@ -16,16 +30,17 @@ h1 {
     text-align: center;
 }
 
-p{
+p {
     font-family: "Outfit", serif;
     font-style: normal;
 }
 
 .preparation_time{
-    background-color: hsl(330, 100%, 98%)
+    background-color: hsl(330, 100%, 98%);
+    padding: 5px;
 }
 
-h4{
+h4 {
     color: hsl(332, 51%, 32%);
     font-family: "Outfit", serif;
     font-style: normal;
